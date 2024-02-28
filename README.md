@@ -6,8 +6,8 @@ API обеспечивает рабоу с базой данных и выпол
    - spring.datasource.url=jdbc:postgresql://localhost:5432/unibell
    - spring.datasource.username=testUser
    - spring.datasource.password=password
-- Запустить приложение методом main класса UnibellTestechApplication, который находится в пакете com.example.aunibelltesttech
-2. Перейти по ссылке в браузере: http://localhost:8080/swagger-ui.html для доступа к Swagger-UI.
+2. Запустить приложение методом main класса UnibellTestechApplication, который находится в пакете com.example.aunibelltesttech
+3. Перейти по ссылке в браузере: http://localhost:8080/swagger-ui.html для доступа к Swagger-UI.
 
 Описание эндпоинтов:
 1. **Создание нового клиента**
