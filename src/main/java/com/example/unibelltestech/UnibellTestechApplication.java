@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class UnibellTestechApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(UnibellTestechApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(UnibellTestechApplication.class, args);
+    }
 }
